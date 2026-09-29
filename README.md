@@ -60,11 +60,8 @@ cluster_centers_ are learned centroids.
 3. Plot points colored by cluster and overlay centroids. 
 4. inertia_ measures within-cluster sum-of-squares. 
 
-```
-```
-
 ---
-
+---
 ## OUTPUT
 
 ```text
